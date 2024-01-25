@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignorar los ficheros compilados
+*.o
+*.so
+*.ko
+*.obj
+*.elf
+
+# Ignorar los ficheros de configuración
+*.conf
