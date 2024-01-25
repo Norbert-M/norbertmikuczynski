@@ -1,3 +1,10 @@
-#Prueba GitHub#
-Github prueba1
+# Prueba GitHub
+
+## Descripción
+Descripción de la prueba
+
+## Autor
+- Norbert Mikuczynski
+
+## Colaboradores
 
